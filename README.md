@@ -54,6 +54,7 @@ myos/
 └── utils/          # Custom C++ Library
     ├── string.cpp  # String class & helpers
     └── vector.h    # Dynamic array implementation
+
 🛠️ How to Build & Run
 Prerequisites
 GCC Cross Compiler (i686-elf-g++)
